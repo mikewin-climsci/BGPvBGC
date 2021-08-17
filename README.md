@@ -3,6 +3,9 @@
 ## Contact
 michael.gregory.windisch@alumni.ethz.ch
 
+## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5211680.svg)](https://doi.org/10.5281/zenodo.5211680)
+
 ## How to run
 ### Create output data
 Always specify in and output paths first as indicated by "SPECIFY IN/OUTPUT PATH" in the code. The main output calculation is performed by `2_full_calc_bgp_v_bgc.py` which imports functions from `functions.py` and depends on output from `1_biomass_potential.py`.
